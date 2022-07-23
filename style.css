@@ -1,10 +1,14 @@
+*{background-color: brown;}
+
 .title {
-    font-size: 100px
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .recipes {
     color: magenta;
     font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 img {
@@ -14,8 +18,11 @@ img {
 
 .steps {
     font-size: 50px;
+    color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .other {
     font-size: 30px;
+    color: aqua;
 }
