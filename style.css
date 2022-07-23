@@ -1,0 +1,21 @@
+.title {
+    font-size: 100px
+}
+
+.recipes {
+    color: magenta;
+    font-size: 50px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.steps {
+    font-size: 50px;
+}
+
+.other {
+    font-size: 30px;
+}
